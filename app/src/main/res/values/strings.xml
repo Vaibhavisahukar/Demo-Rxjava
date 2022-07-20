@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="phones">Phone - </string>
+    <string name="dob">DOB - </string>
+    <string name="age">Age - </string>
+    <string name="email">Email - </string>
+    <string name="address">Address - </string>
+    <string name="postcode">Postcode - </string>
+    <string name="user_name">User Name</string>
+    <string name="phone">Phone</string>
+    <string name="city_country">City, Country</string>
+</resources>
