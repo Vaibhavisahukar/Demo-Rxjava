@@ -15,4 +15,13 @@
     <color name="dark_black">#221414</color>
     <color name="light_white">#DCDCDC</color>
     <color name="transparent">#00FFFFFF</color>
+    <color name="purple_A200">#E040FB</color>
+    <color name="purple_600">#8E24AA </color>
+    <color name="purple_5200">#9C27B0 </color>
+    <color name="pink_A200">#FF4081</color>
+    <color name="pink_A700">#C51162</color>
+    <color name="pink_600">#D81B60</color>
+    <color name="pink_700">#C2185B</color>
+    <color name="deleteColor">#3F51B5</color>
+
 </resources>

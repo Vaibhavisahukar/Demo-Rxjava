@@ -25,7 +25,7 @@ class NetworkModule {
     //provides implementation to the Api interface methods
     @Singleton
     @Provides
-    fun providesApi(retrofit: Retrofit) : Api {
+    fun providesApi(retrofit: Retrofit): Api {
         return retrofit.create(Api::class.java)
     }
 }
