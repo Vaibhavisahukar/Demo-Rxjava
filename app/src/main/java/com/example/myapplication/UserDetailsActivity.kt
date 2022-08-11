@@ -8,11 +8,11 @@ import com.example.myapplication.model.ResultsItem
 
 class UserDetailsActivity : AppCompatActivity() {
 
-    lateinit var binding: ActivityUserDetailsBinding
+    private lateinit var binding: ActivityUserDetailsBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        binding = DataBindingUtil.setContentView(this,R.layout.activity_user_details)
+        binding = DataBindingUtil.setContentView(this, R.layout.activity_user_details)
 
         val details = intent.getParcelableExtra<ResultsItem>("User item")
         binding.results = details
